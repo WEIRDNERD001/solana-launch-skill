@@ -65,7 +65,7 @@ This skill is the safety rail. It bakes anti-rug guarantees into every step and 
 
 ### Recommended: custom install
 ```bash
-git clone https://github.com/PhilipFx/solana-launch-skill
+git clone https://github.com/WEIRDNERD001/solana-launch-skill
 cd solana-launch-skill
 ./install-custom.sh
 ```
